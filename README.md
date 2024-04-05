@@ -1,6 +1,6 @@
 # Realtime Chat
 
-This is a realtime chat built with Go, Next, and Typescript.
+This is a realtime chat built with Go
 
 ## Hub Architecture
 
